@@ -6,5 +6,10 @@ h1{
 }
 .image{
     max-width: 100%;  
-height: auto;  
+    height: auto;  
+}
+.Header2{
+    background-color: rgb(15, 223, 67);
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
